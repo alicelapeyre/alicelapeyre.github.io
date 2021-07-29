@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Alice Lapeyre"
 title_separator          : "-"
-name                     : &name "Alice Lapeyre Name"
+name                     : &name "Alice Lapeyre"
 description              : &description "personal description"
 url                      : https://alicelap.github.io/alicelapeyre.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,10 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
+  name             : "Alice Lapeyre"
+  avatar           : "bio-photo.PNG"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
