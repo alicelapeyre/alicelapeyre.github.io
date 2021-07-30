@@ -19,3 +19,12 @@ I am interested in public and labour economics, more particularly in the optimal
 From January 2022, I will be a visiting research student at the London School of Economics sponsored by Prof. Camille Lnadais. 
 
 You can contact me at alice[dot]lapeyre[at]ensae[dot]fr
+
+# Research fields: public and labor economics.
+
+Bio: here is my [resume](https://crest.science)
+
+References: 
+- Francis Kramarz (CREST, ENSAE)
+- Camille Landais (LSE)
+- Roland Rathelot (Warwick University)
