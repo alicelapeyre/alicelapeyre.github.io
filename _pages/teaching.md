@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Teaching
+<!---## Teaching--->
 
 - [Econometrics I](https://www.ensae.fr/en/courses/econometrics-1/), ENSAE IP Paris, professor Xavier d'Haultfoeuille (Graduate level, Fall 2020, Fall 2021)
 - [Econometrics II](https://www.ensae.fr/en/courses/econometrics-2/), ENSAE IP Paris, professor Michael Visser (Graduate level, Spring 2021)
