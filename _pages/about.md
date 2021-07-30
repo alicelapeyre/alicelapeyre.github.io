@@ -16,7 +16,7 @@ I am interested in public and labour economics, more particularly in the optimal
 
 From January 2022, I will be a visiting research student at the London School of Economics sponsored by Prof. Camille Lnadais. 
 
-You can contact me at alice[dot]lapeyre[at]ensae[dot]fr
+You can contact me at [alice[dot]lapeyre[at]ensae[dot]fr](mailto:alice.lapeyre@ensae.fr)
 
 <!--- Research fields: public and labor economics --->
 
