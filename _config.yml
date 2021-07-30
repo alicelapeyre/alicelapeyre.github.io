@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Alice Lapeyre"
   avatar           : "bio-photo.JPG"
-  bio              : "Your biography for the left-hand sidebar"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  bio              : "PhD Candidate"
+  employer         : "CREST/ENSAE/IP Paris"
+  pubmed           : "https://crest.science"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
