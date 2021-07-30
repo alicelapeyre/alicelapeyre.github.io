@@ -22,7 +22,7 @@ You can contact me at [alice.lapeyre@ensae.fr](mailto:alice.lapeyre@ensae.fr)
 
 Bio: here is my [resume](https://github.com/alicelap/alicelapeyre.github.io/blob/master/files/ALapeyre_CV.pdf)
 
-<a href="alicelapeyre.github.io/blob/master/files/ALapeyre_CV.pdf" target="_blank">PDF.</a>
+<a href="alicelapeyre.github.io/files/ALapeyre_CV.pdf" target="_blank">PDF.</a>
 
 <!--- References: 
 - [Francis Kramarz](https://faculty.crest.fr/fkramarz/)(CREST/ENSAE)
