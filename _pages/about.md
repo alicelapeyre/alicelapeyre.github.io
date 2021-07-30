@@ -10,13 +10,13 @@ redirect_from:
 
 Hello ! 
 
-I am a first year Ph.D. Candidate at [CREST](https://crest.science) under the joint supervision of [Prof. Francis Kramarz](https://faculty.crest.fr/fkramarz/) (ENSAE/CREST) and [Prof. Camille Landais](https://econ.lse.ac.uk/staff/clandais/cgi-bin/index.php) (LSE). 
+I am a first year Ph.D. Candidate at [CREST](https://crest.science) under the joint supervision of Prof. Francis Kramarz (ENSAE/CREST) and Prof. Camille Landais (LSE). 
 
 I am interested in public and labour economics, more particularly in the optimal design of social insurance policies on the labor market.
 
 From January 2022, I will be a visiting research student at the London School of Economics sponsored by Prof. Camille Lnadais. 
 
-You can contact me at [alice[dot]lapeyre[at]ensae[dot]fr](mailto:alice.lapeyre@ensae.fr)
+You can contact me at [alice.lapeyre@ensae.fr](mailto:alice.lapeyre@ensae.fr)
 
 <!--- Research fields: public and labor economics --->
 
