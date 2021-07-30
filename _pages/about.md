@@ -20,7 +20,7 @@ You can contact me at [alice.lapeyre@ensae.fr](mailto:alice.lapeyre@ensae.fr)
 
 <!--- Research fields: public and labor economics --->
 
-Bio: here is my [resume](https://github.com/alicelap/alicelapeyre.github.io/raw/master/files/ALapeyre_CV.pdf)
+Bio: here is my [resume](https://github.com/alicelapeyre/alicelapeyre.github.io/raw/master/files/ALapeyre_CV.pdf)
 
 <!--- References: 
 - [Francis Kramarz](https://faculty.crest.fr/fkramarz/)(CREST/ENSAE)
