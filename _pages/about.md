@@ -10,7 +10,7 @@ redirect_from:
 
 Hello ! 
 
-I am a first year Ph.D. Candidate at [CREST](https://crest.science) under the joint supervision of Francis Kramarz (ENSAE/CREST) and Camille Landais (LSE). 
+I am a first year Ph.D. Candidate at [CREST](https://crest.science) under the joint supervision of [Francis Kramarz](https://faculty.crest.fr/fkramarz/) (CREST/ENSAE) and [Camille Landais](https://econ.lse.ac.uk/staff/clandais/cgi-bin/index.php) (LSE). 
 
 I am interested in public and labour economics, more particularly in the optimal design of social insurance policies on the labor market.
 
@@ -22,7 +22,7 @@ You can contact me at [alice.lapeyre@ensae.fr](mailto:alice.lapeyre@ensae.fr)
 
 Bio: here is my [resume](https://crest.science)
 
-References: 
-- [Francis Kramarz](https://faculty.crest.fr/fkramarz/)(CREST, ENSAE)
+<!--- References: 
+- [Francis Kramarz](https://faculty.crest.fr/fkramarz/)(CREST/ENSAE)
 - [Camille Landais](https://econ.lse.ac.uk/staff/clandais/cgi-bin/index.php) (LSE)
-- [Roland Rathelot](http://rolandrathelot.com) (Warwick University)
+- [Roland Rathelot](http://rolandrathelot.com) (Warwick University) --->
