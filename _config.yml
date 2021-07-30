@@ -84,9 +84,9 @@ author:
   avatar           : "bio-photo.JPG"
   bio              : "PhD Candidate"
   employer         : "CREST/ENSAE/IP Paris"
-  pubmed           : "https://crest.science"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           : # "https://crest.science"
+  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  email            : "alice.lapeyre@ensae.fr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -95,13 +95,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : # "alicelap"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "alicelapeyre"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
