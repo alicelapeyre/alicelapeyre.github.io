@@ -7,6 +7,6 @@ author_profile: true
 
 <!---## Teaching--->
 
-- [Econometrics I](https://www.ensae.fr/en/courses/econometrics-1/), ENSAE IP Paris, Teaching Assistant to Prof. Xavier d'Haultfoeuille (Graduate level, Fall 2020, Fall 2021)
-- [Econometrics II](https://www.ensae.fr/en/courses/econometrics-2/), ENSAE IP Paris, Teaching Assistant to Prof. Michael Visser (Graduate level, Spring 2021)
+- [Econometrics I](https://www.ensae.fr/en/courses/econometrics-1/), ENSAE IP Paris, Teaching Assistant for Prof. Xavier d'Haultfoeuille (Graduate level, Fall 2020, Fall 2021)
+- [Econometrics II](https://www.ensae.fr/en/courses/econometrics-2/), ENSAE IP Paris, Teaching Assistant for Prof. Michael Visser (Graduate level, Spring 2021)
 - [Economic Bachelor Theses](https://www.ensae.fr/en/courses/economics-paper/), ENSAE IP Paris, Supervisor (Graduate level, Fall 2020, Fall 2021)
