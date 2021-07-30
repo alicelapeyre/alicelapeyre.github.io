@@ -10,7 +10,7 @@ redirect_from:
 
 Hello ! 
 
-# About Me
+### About Me
 
 I am a first year Ph.D. Candidate at [CREST](https://crest.science) under the joint supervision of Prof. Francis Kramarz (ENSAE/CREST) and Prof. Camille Landais (LSE). 
 
@@ -20,7 +20,7 @@ From January 2022, I will be a visiting research student at the London School of
 
 You can contact me at alice[dot]lapeyre[at]ensae[dot]fr
 
-# Research fields: public and labor economics.
+<!--- Research fields: public and labor economics --->
 
 Bio: here is my [resume](https://crest.science)
 
