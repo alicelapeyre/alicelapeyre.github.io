@@ -1,18 +1,18 @@
 # Authors
 
 Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+  name        : "Camille Landais Name"
+  uri         : "https://econ.lse.ac.uk/staff/clandais/cgi-bin/index.php?langue=eng&choix=default#"
+  email       : "c.landais@lse.ac.uk"
+  bio         : #"This is the first name."
+  avatar      : #"bio-photo-2.jpg"
+  twitter     : #"name"
+  google_plus : #"Name"
 
 Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+  name        : "Giulia Giupponi "
+  email       : "giulia.giupponi@unibocconi.it"
+  bio         : #"I ordered what?"
+  avatar      : #"bio-photo.jpg"
+  twitter     : #"name2"
+  google_plus : #"Name"
