@@ -24,5 +24,5 @@ Bio: here is my [resume](https://crest.science)
 
 References: 
 - [Francis Kramarz](https://faculty.crest.fr/fkramarz/)(CREST, ENSAE)
-- [Camille Landais](https://econ.lse.ac.uk/staff/clandais/cgi-bin/index.php)Camille Landais (LSE)
+- [Camille Landais](https://econ.lse.ac.uk/staff/clandais/cgi-bin/index.php) (LSE)
 - [Roland Rathelot](http://rolandrathelot.com) (Warwick University)
