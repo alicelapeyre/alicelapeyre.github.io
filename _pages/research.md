@@ -12,6 +12,7 @@ author_profile: true
 </li>
 
 In preparation for the <b> <em> Journal of Economic Perspectives</em> </b>. <a href="https://www.dropbox.com/s/912yvo99koci3yp/JEP_STW_UI_Online_Appendix.pdf?dl=0"> Online Appendix </a> 
+
 In the media: <a href="https://voxeu.org/article/social-insurance-policies-turbulent-times-short-time-work-versus-unemployment-insurance"> VoxEu </a>   
 <details><summary>[Abstract]</summary>
 <p>
