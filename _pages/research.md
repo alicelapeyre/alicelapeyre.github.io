@@ -10,7 +10,7 @@ author_profile: true
 <ul>
 <li> <b> <a href="https://www.dropbox.com/s/w5tgnstk1u47lrf/JEP_STW_UI_Manuscript.pdf?dl=0"> Should We Insure Workers or Jobs During Recessions? </a> </b> (with <a href="https://www.giuliagiupponi.com">Giulia Giupponi</a> and <a href="https://econ.lse.ac.uk/staff/clandais/cgi-bin/index.php?langue=eng&choix=default">Camille Landais</a>)
 </li>
-In preparation for the <em> Journal of Economic Perspectives</em>. <a href="https://www.dropbox.com/s/912yvo99koci3yp/JEP_STW_UI_Online_Appendix.pdf?dl=0"> Online Appendix </a> 
+  In preparation for the <b> <em> Journal of Economic Perspectives</em> </b>. <a href="https://www.dropbox.com/s/912yvo99koci3yp/JEP_STW_UI_Online_Appendix.pdf?dl=0"> Online Appendix </a> 
 </li>
 In the media: <a href="https://voxeu.org/article/social-insurance-policies-turbulent-times-short-time-work-versus-unemployment-insurance"> VoxEu </a>   
 <details><summary>[Abstract]</summary>
