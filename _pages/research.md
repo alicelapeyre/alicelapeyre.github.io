@@ -24,7 +24,7 @@ What is the most efficient way to respond to recessions in the labor market? To 
 </ul>
 
 <ul>
-<li> <b> Employed in-house or outsourced - where do workers in services stand?  </b>
+<li> <b> Employed In-house or Outsourced - Where Do Workers in Services Stand?  </b>
 </li> 
  
 </ul>
