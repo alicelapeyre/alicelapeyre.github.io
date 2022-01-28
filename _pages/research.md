@@ -22,3 +22,10 @@ What is the most efficient way to respond to recessions in the labor market? To 
 </details>
 
 </ul>
+
+<ul>
+<li> <b> Employed in-house or outsourced -where do workers in services  </b>
+</li> 
+[Master thesis]
+ 
+</ul>
