@@ -8,16 +8,16 @@ author_profile: true
 ## Work in Progress
 
 <ul>
-<li> <b> <a href="https://www.dropbox.com/s/w5tgnstk1u47lrf/JEP_STW_UI_Manuscript.pdf?dl=0"> Should We Insure Workers or Jobs During Recessions? </a> </b> (with <a href="https://www.giuliagiupponi.com">Giulia Giupponi</a> and <a href="https://econ.lse.ac.uk/staff/clandais/cgi-bin/index.php?langue=eng&choix=default">Camille Landais</a>)
+<li> <b> <a href="https://www.dropbox.com/s/f8q8p9efyvz2hjh/JEP_STW_UI.pdf?dl=0"> Should We Insure Workers or Jobs During Recessions? </a> </b> (with <a href="https://www.giuliagiupponi.com">Giulia Giupponi</a> and <a href="https://econ.lse.ac.uk/staff/clandais/cgi-bin/index.php?langue=eng&choix=default">Camille Landais</a>)
 </li> 
-In preparation for the <b> <em> Journal of Economic Perspectives</em></b>.
+Prepared for the <b> <em> Journal of Economic Perspectives</em></b>.
   
 CEPR Discussion Paper No. 16421, <a href="https://www.dropbox.com/s/912yvo99koci3yp/JEP_STW_UI_Online_Appendix.pdf?dl=0"> Online Appendix</a>.
 In the media: <a href="https://voxeu.org/article/social-insurance-policies-turbulent-times-short-time-work-versus-unemployment-insurance"> VoxEu</a>.
   
 <details><summary>[Abstract]</summary>
 <p>
-What is the most efficient way to respond to recessions in the labor market? To this question, policymakers on both sides of the pond gave two diametrically opposed answers during the recent crisis. In the US, the focus was on insuring workers, by aggressively increasing the generosity of unemployment insurance (UI). In Europe, to the contrary, policies were concentrated on saving job matches, with the massive use of labor hoarding subsidies through short-time-work (STW) programs, on which so little is actually known. In this article, we try to understand who got it right. Building on the vast literature on UI and on a recent stream of papers on STW, we first provide a framework to determine the relative welfare effects of STW versus UI. We then show that UI offers more insurance value than STW, but tends to exhibit larger fiscal externalities, due to moral hazard. We finally focus on how STW and UI affect labor market equilibrium and how this interacts with inefficiencies in the labor market. We review recent evidence showing that STW can be an effective way to reduce socially costly layoffs in recessions. Overall, we conclude that STW is an important and useful addition to the labor market policy-toolkit during recessions, with strong and positive complementarities with UI.
+What is the most efficient way to respond to recessions in the labor market? To this question, policymakers on both sides of the pond gave two diametrically opposed answers during the recent crisis. In the US, the focus was on insuring workers, by aggressively increasing the generosity of unemployment insurance. In Europe, to the contrary, policies were concentrated on saving job matches, with the massive use of labor hoarding subsidies through short-time-work programs, on which so little is actually known. So who got it right? Should we insure workers or jobs during recessions? In this article, we show that far from being substitutes, unemployment insurance and short-time-work policies exhibit strong complementarities. They provide insurance to different types of workers, and against different types of shocks. Short-time-work can be an effective way to reduce socially costly layoffs against large temporary shocks but is less effective against more persistent shocks that require reallocation across firms and sectors. Overall, we conclude that short-time-work is an important and useful addition to the labor market policy-toolkit during recessions, which should be used alongside unemployment insurance.
 </p>
 </details>
 
