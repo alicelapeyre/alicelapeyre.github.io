@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Hello ! 
-
 I am a second year Ph.D. Candidate at [CREST](https://crest.science) under the joint supervision of Prof. [Francis Kramarz](https://faculty.crest.fr/fkramarz/) (CREST/ENSAE) and Prof. [Camille Landais](https://econ.lse.ac.uk/staff/clandais/cgi-bin/index.php) (LSE). 
 
 I am interested in public and labour economics, more particularly in the optimal design of social insurance policies on the labor market.
