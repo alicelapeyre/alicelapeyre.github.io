@@ -13,7 +13,7 @@ I am a second year Ph.D. Candidate at [CREST](https://crest.science) under the j
 I am interested in public and labour economics, more particularly in the optimal design of social insurance policies on the labor market.
 
 Some news:
-- I am currently visiting [STICERD](https://sticerd.lse.ac.uk) at the London School of Economics and will be staying until August. 
+- I am currently visiting STICERD at the London School of Economics, and will be staying until August. 
 - My first paper is out : check it out [here](https://www.aeaweb.org/articles?id=10.1257/jep.36.2.29)
 
 
