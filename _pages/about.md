@@ -17,7 +17,7 @@ Some news:
 - My first paper is out : check it out [here](https://www.aeaweb.org/articles?id=10.1257/jep.36.2.29)
 
 
-You can contact me at [alice.lapeyre@ensae.fr](mailto:alice.lapeyre@ensae.fr)
+E-mail: [alice.lapeyre@ensae.fr](mailto:alice.lapeyre@ensae.fr)
 
 <!--- Research fields: public and labor economics --->
 
