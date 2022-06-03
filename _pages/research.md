@@ -15,7 +15,6 @@ author_profile: true
 CEPR Discussion Paper No. 16421 <a href ="https://www.dropbox.com/s/tvl2mimvx5xcu4i/WP_STW_UI_Paper_Appendix_220204.pdf?dl=0"> Working Paper. </a>
 <br />
 In the media: <a href="https://voxeu.org/article/social-insurance-policies-turbulent-times-short-time-work-versus-unemployment-insurance"> VoxEu</a>.  <br />
-<br />
  
 <details><summary>[Abstract]</summary>
 <p>
