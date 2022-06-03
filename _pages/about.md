@@ -12,7 +12,9 @@ I am a second year Ph.D. Candidate at [CREST](https://crest.science) under the j
 
 I am interested in public and labour economics, more particularly in the optimal design of social insurance policies on the labor market.
 
-I am currently visiting STICERD at the London School of Economics, sponsored by Prof. Camille Landais, and will be staying until August. 
+I am currently visiting STICERD at the London School of Economics, sponsored by Prof. Camille Landais. 
+
+Next Fall, I will be visiting the IRLE and Economic Department of UC Berkeley, sponsored by Prof. Emmanuel Saez. 
 
 E-mail: [alice.lapeyre@ensae.fr](mailto:alice.lapeyre@ensae.fr)
 
