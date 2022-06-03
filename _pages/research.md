@@ -5,7 +5,7 @@ permalink: research/
 author_profile: true
 ---
 
-## Work in Progress
+## Academic Publications
 
 <ul>
 <li> <b> <a href="https://www.dropbox.com/s/u418k9rsvk3pyfk/JEP_STW_UI.pdf?dl=0"> Should We Insure Workers or Jobs During Recessions? </a> </b> (with <a href="https://www.giuliagiupponi.com">Giulia Giupponi</a> and <a href="https://econ.lse.ac.uk/staff/clandais/cgi-bin/index.php?langue=eng&choix=default">Camille Landais</a>)
@@ -26,6 +26,7 @@ In the media: <a href="https://voxeu.org/article/social-insurance-policies-turbu
  
 </ul>
 
+## Work in Progress 
 <ul>
 <li> <b> Employed In-house or Outsourced - Where Do Workers in Services Stand? [Master thesis] </b>
 </li> 
