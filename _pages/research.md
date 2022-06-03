@@ -30,7 +30,7 @@ In the media: <a href="https://voxeu.org/article/social-insurance-policies-turbu
 <ul>
  <li> <b> Firms' Expectations and Labor Adjustment </b>
 </li> 
-<li> <b> Employed In-house or Outsourced - Where Do Workers in Services Stand? </b>
+<li> <b> Employed In-house or Outsourced - Where Do Workers in Services Stand? [Master Thesis] </b>
 </li> 
  
 </ul>
