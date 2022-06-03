@@ -16,13 +16,13 @@ I am currently visiting STICERD at the London School of Economics, sponsored by 
 
 Next Fall, I will be visiting the IRLE and Economic Department of UC Berkeley, sponsored by Prof. Emmanuel Saez. 
 
-E-mail: [alice.lapeyre@ensae.fr](mailto:alice.lapeyre@ensae.fr)
+You can contact me at: [alice.lapeyre@ensae.fr](mailto:alice.lapeyre@ensae.fr)
 
 <!--- Research fields: public and labor economics --->
 
-Here is my [resume](https://github.com/alicelapeyre/alicelapeyre.github.io/raw/master/files/ALapeyre_CV.pdf)
+and find my [resume](https://github.com/alicelapeyre/alicelapeyre.github.io/raw/master/files/ALapeyre_CV.pdf) here.
 
 <!--- References: 
 - [Francis Kramarz](https://faculty.crest.fr/fkramarz/)(CREST/ENSAE)
 - [Camille Landais](https://econ.lse.ac.uk/staff/clandais/cgi-bin/index.php) (LSE)
-- [Roland Rathelot](http://rolandrathelot.com) (Warwick University) --->
+- [Roland Rathelot](http://rolandrathelot.com) (CREST/ENSAE) --->
