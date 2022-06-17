@@ -14,6 +14,7 @@ I am interested in public and labour economics, more particularly in the optimal
 <br />
 
 I am currently visiting STICERD at the London School of Economics, sponsored by Prof. Camille Landais. 
+
 Next Fall, I will be visiting the IRLE and Economic Department of UC Berkeley, sponsored by Prof. Emmanuel Saez. 
 <br />
 
