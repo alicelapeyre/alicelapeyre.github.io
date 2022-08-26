@@ -13,7 +13,10 @@ I am a third year Ph.D. Candidate at [CREST](https://crest.science) under the jo
 I am interested in public and labour economics, more particularly in the optimal design of social insurance policies on the labor market.
 <br />
 
-This Fall, I will be visiting the IRLE and Economic Department of UC Berkeley, sponsored by Prof. Emmanuel Saez. 
+I am currently visiting the IRLE and Economic Department of UC Berkeley, sponsored by Prof. Emmanuel Saez. 
+<br />
+
+From January 2023, I will be visiting STICERD at the London School of Economics, sponsored by Prof. Camille Landais.
 <br />
 
 You can contact me at: [alice.lapeyre@ensae.fr](mailto:alice.lapeyre@ensae.fr) and find my [CV](https://github.com/alicelapeyre/alicelapeyre.github.io/raw/master/files/ALapeyre_CV.pdf) here.
