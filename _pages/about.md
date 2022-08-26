@@ -13,7 +13,7 @@ I am a third year Ph.D. Candidate at [CREST](https://crest.science) under the jo
 I am interested in public and labour economics, more particularly in the optimal design of social insurance policies on the labor market.
 <br />
 
-I am visiting [UC Berkeley](https://www.econ.berkeley.edu) for the Fall semester, sponsored by Prof. Emmanuel Saez. 
+I am visiting [UC Berkeley](https://www.econ.berkeley.edu) for the Fall semester of 2022, sponsored by Prof. Emmanuel Saez. 
 <br />
 
 From January 2023, I will be visiting [STICERD](https://sticerd.lse.ac.uk) at the London School of Economics, sponsored by Prof. Camille Landais.
