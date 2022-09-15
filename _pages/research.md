@@ -8,7 +8,7 @@ author_profile: true
 ## Publications
 
 <ul>
-<li> <b> <a href="https://www.dropbox.com/s/u418k9rsvk3pyfk/JEP_STW_UI.pdf?dl=0"> Should We Insure Workers or Jobs During Recessions? </a> </b> (with <a href="https://www.giuliagiupponi.com">Giulia Giupponi</a> and <a href="https://econ.lse.ac.uk/staff/clandais/cgi-bin/index.php?langue=eng&choix=default">Camille Landais</a>)
+<li> <b> <a href="https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.36.2.29"> Should We Insure Workers or Jobs During Recessions? </a> </b> (with <a href="https://www.giuliagiupponi.com">Giulia Giupponi</a> and <a href="https://econ.lse.ac.uk/staff/clandais/cgi-bin/index.php?langue=eng&choix=default">Camille Landais</a>)
 </li> 
 <b> <em> Journal of Economic Perspectives</em></b> 36(2): 29-54, 2022. <a href="https://www.dropbox.com/s/6c315g39qo1zh65/JEP_STW_UI_Appendix_220411.pdf?dl=0"> Online Appendix. </a>
 <br />
