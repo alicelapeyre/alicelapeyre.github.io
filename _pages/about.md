@@ -19,7 +19,7 @@ I am visiting [UC Berkeley](https://www.econ.berkeley.edu) for the 2022 Fall sem
 From January 2023, I will be visiting [STICERD](https://sticerd.lse.ac.uk) at the London School of Economics, sponsored by Prof. Camille Landais.
 <br />
 
-You can contact me at: [alice.lapeyre(at)ensae.fr](mailto:alice.lapeyre@ensae.fr) and find my [CV](https://github.com/alicelapeyre/alicelapeyre.github.io/raw/master/files/ALapeyre_CV.pdf) here.
+You can contact me at: [alice.lapeyre@ensae.fr](mailto:alice.lapeyre@ensae.fr) and find my [CV](https://github.com/alicelapeyre/alicelapeyre.github.io/raw/master/files/ALapeyre_CV.pdf) here.
 
 <!--- Research fields: public and labor economics --->
 
