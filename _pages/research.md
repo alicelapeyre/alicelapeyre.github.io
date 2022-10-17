@@ -8,7 +8,7 @@ author_profile: true
 ## Publications
 
 <ul>
-<li> <b> <a href="https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.36.2.29"> Should We Insure Workers or Jobs During Recessions? </a> </b> (with <a href="https://www.giuliagiupponi.com">Giulia Giupponi</a> and <a href="https://econ.lse.ac.uk/staff/clandais/cgi-bin/index.php?langue=eng&choix=default">Camille Landais</a>)
+<li> <b> <a href="https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.36.2.29"> Should We Insure Workers or Jobs During Recessions? </a> </b> (with G. Giupponi and C. Landais)
 </li> 
 <b> <em> Journal of Economic Perspectives</em></b> 36(2): 29-54, 2022. <a href="https://www.dropbox.com/s/6c315g39qo1zh65/JEP_STW_UI_Appendix_220411.pdf?dl=0"> Online Appendix. </a>
 <br />
@@ -31,6 +31,13 @@ In the media: <a href="https://voxeu.org/article/social-insurance-policies-turbu
  <li> <b> Firms' Expectations and Labor Adjustment </b>
 </li> 
 <li> <b> Employed In-house or Outsourced - Where Do Workers in Services Stand? [Master Thesis] </b>
+</li> 
+ 
+</ul>
+
+## Policy Work and Other Writing 
+<ul>
+ <li> Giupponi, G., C. Landais and A. Lapeyre (2022) “Unemployment Insurance versus Short-Time Work: What Should Governments Do?” (forthcoming), 2022 LERA Perspectives on Work
 </li> 
  
 </ul>
