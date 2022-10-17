@@ -28,9 +28,9 @@ In the media: <a href="https://voxeu.org/article/social-insurance-policies-turbu
 
 ## Work in Progress 
 <ul>
- <li> <b> Firms' Expectations and Labor Adjustment </b>
+ <li> Firms' Expectations and Labor Adjustment
 </li> 
-<li> <b> Employed In-house or Outsourced - Where Do Workers in Services Stand? [Master Thesis] </b>
+<li> Employed In-house or Outsourced - Where Do Workers in Services Stand? [Master Thesis]
 </li> 
  
 </ul>
