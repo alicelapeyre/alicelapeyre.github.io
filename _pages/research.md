@@ -37,7 +37,7 @@ In the media: <a href="https://voxeu.org/article/social-insurance-policies-turbu
 
 ## Policy Work and Other Writing 
 <ul>
- <li> Giupponi, G., C. Landais and A. Lapeyre (2022) <a href="https://www.dropbox.com/s/0vt56wjnawaq54g/POW_2022_Vol26_Pgs64-67_GiupponiLandaisLapeyre.pdf?dl=0"> “Unemployment Insurance versus Short-Time Work: What Should Governments Do?”</a>, 2022 LERA Perspectives on Work
+ <li> Giupponi, G., C. Landais and A. Lapeyre (2022) <a href="https://www.dropbox.com/s/0vt56wjnawaq54g/POW_2022_Vol26_Pgs64-67_GiupponiLandaisLapeyre.pdf?dl=0"> “Unemployment Insurance versus Short-Time Work: What Should Governments Do?”</a>, <em> 2022 LERA Perspectives on Work</em>
 </li> 
  
 </ul>
