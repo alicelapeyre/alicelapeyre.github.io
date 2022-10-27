@@ -5,7 +5,7 @@ permalink: research/
 author_profile: true
 ---
 
-## Academic Publications
+## Publications
 
 <ul>
 <li> <b> <a href="https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.36.2.29"> Should We Insure Workers or Jobs During Recessions? </a> </b> (with G. Giupponi and C. Landais)
