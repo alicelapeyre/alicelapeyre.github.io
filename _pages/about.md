@@ -13,7 +13,7 @@ I am a third year Ph.D. Candidate at [CREST](https://crest.science) under the su
 I am interested in public and labour economics, more particularly in the optimal design of social insurance policies on the labor market.
 <br />
 
-I am visiting the [Hub for Equal Representation in the Economy](https://www.hubequalrep.org) at the London School of Economics, sponsored by Prof. Camille Landais.
+I am visiting the the [London School of Economics](https://www.lse.ac.uk), sponsored by Prof. Camille Landais.
 <br />
 
 I visited [UC Berkeley](https://www.econ.berkeley.edu) during the 2022 Fall semester, sponsored by Prof. Emmanuel Saez. 
