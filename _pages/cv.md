@@ -9,31 +9,19 @@ redirect_from:
 
 Here is my [CV](https://github.com/alicelapeyre/alicelapeyre.github.io/raw/master/ALapeyre_CV.pdf).
 
-{% include base_path %}
-
-Education
+Doctoral Studies 
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Economics, ENSAE/Ecole Polytechnique, 2019
-* M.S. in Economics, ENSAE/Ecole Polytechnique, 2019
+* Ph.D. in Economics, CREST-ENSAE, 2020-
+* Visiting PhD Student, LSE, 2022 and 2023
+* Visiting PhD Student, UC Berkeley, 2023
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2019-2020: Research Assistant
+  * London School of Economics, London, UK
+  * Supervisor: Professor Camille Landais 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2018: Research Intern 
+  * Warwick University, Coventry, UK
+  * Supervisor: Professor Roland Rathelot
   
-Skills
-======
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
