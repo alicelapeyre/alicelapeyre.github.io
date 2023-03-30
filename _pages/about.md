@@ -19,7 +19,7 @@ I am visiting the [London School of Economics](https://www.lse.ac.uk) for Lent T
 I visited [UC Berkeley](https://www.econ.berkeley.edu) during the 2022 Fall semester, sponsored by Prof. Emmanuel Saez. 
 <br />
 
-You can contact me at: [alice.lapeyre@ensae.fr](mailto:alice.lapeyre@ensae.fr) and find my [CV](https://github.com/alicelapeyre/alicelapeyre.github.io/raw/master/files/ALapeyre_CV.pdf) here.
+You can contact me at: [alice.lapeyre@ensae.fr](mailto:alice.lapeyre@ensae.fr) and find my [CV](https://github.com/alicelapeyre/alicelapeyre.github.io/raw/master/ALapeyre_CV.pdf) here.
 
 <!--- Research fields: public and labor economics --->
 
