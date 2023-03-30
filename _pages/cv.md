@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+Here is my [CV](https://github.com/alicelapeyre/alicelapeyre.github.io/raw/master/ALapeyre_CV.pdf).
+
 {% include base_path %}
 
 Education
