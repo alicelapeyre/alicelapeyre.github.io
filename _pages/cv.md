@@ -1,22 +1,15 @@
----
-layout: archive
-title: "CV"
-permalink: cv/
-author_profile: true
-redirect_from:
-  - /resume
----
-
-Here is my [CV](https://github.com/alicelapeyre/alicelapeyre.github.io/raw/master/ALapeyre_CV.pdf).
-
-Doctoral Studies 
+CV 
 ======
+
+Here is my complete [CV](https://github.com/alicelapeyre/alicelapeyre.github.io/raw/master/ALapeyre_CV.pdf).
+
+## Doctoral Studies 
 * Ph.D. in Economics, CREST-ENSAE, 2020-
 * Visiting PhD Student, LSE, 2022 and 2023
 * Visiting PhD Student, UC Berkeley, 2023
 
-Research experience
-======
+## Research experience
+
 * 2019-2020: Research Assistant
   * London School of Economics, London, UK
   * Supervisor: Professor Camille Landais 
