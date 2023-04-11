@@ -12,8 +12,8 @@ Here is my complete [CV](https://github.com/alicelapeyre/alicelapeyre.github.io/
 
 ## Doctoral Studies 
 * Ph.D. in Economics, CREST-ENSAE, 2020-
-* Visiting PhD Student, LSE, 2022 and 2023
-* Visiting PhD Student, UC Berkeley, 2023
+* Visiting PhD Student, LSE, Lent and Summer Terms of 2022 and Lent Term of 2023
+* Visiting PhD Student, UC Berkeley, Fall 2023
 
 ## Research experience
 
@@ -24,7 +24,7 @@ Here is my complete [CV](https://github.com/alicelapeyre/alicelapeyre.github.io/
 * Summer 20119: Research Intern 
   * CREST-ENSAE, Paris, France
   * Supervisor: Professor Francis Kramarz
-  * 
+
 * Summer 2018: Research Intern 
   * Warwick University, Coventry, UK
   * Supervisor: Professor Roland Rathelot
