@@ -8,7 +8,7 @@ author_profile: true
 CV 
 ======
 
-Here is my complete [CV](https://github.com/alicelapeyre/alicelapeyre.github.io/raw/master/ALapeyre_CV.pdf).
+Here is my complete [CV](https://github.com/alicelapeyre/alicelapeyre.github.io/raw/master/files/ALapeyre_CV.pdf).
 
 ## Doctoral Studies 
 * Ph.D. in Economics, CREST-ENSAE, 2020-
