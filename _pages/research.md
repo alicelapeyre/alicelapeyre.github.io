@@ -30,7 +30,7 @@ In the media: <a href="https://voxeu.org/article/social-insurance-policies-turbu
 
 ## Work in Progress 
 <ul>
- <li> Firms Moral Hazard in Short-Time Work 
+ <li> Firm Moral Hazard in Short-Time Work 
 </li> 
 <li> Employed In-house or Outsourced - Where Do Workers in Services Stand? [Master Thesis]
 </li> 
