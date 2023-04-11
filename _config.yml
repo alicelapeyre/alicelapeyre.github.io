@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Alice Lapeyre"
 title_separator          : "-"
 name                     : &name "Alice Lapeyre"
-description              : &description "Ph.D. Candidate in Economics at CREST/ENSAE/IP Paris"
+description              : &description "Ph.D. Candidate in Economics at CREST, ENSAE, Institut Polytechnique de Paris"
 url                      : https://alicelapeyre.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "alicelap.github.io/alicelapeyre.github.io/"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Alice Lapeyre"
   avatar           : "bio-photo.JPEG" #images/
-  bio              : "Ph.D. Candidate in Economics at CREST/ENSAE/IP Paris"
+  bio              : "Ph.D. Candidate in Economics at CREST, ENSAE, Institut Polytechnique de Paris"
   location         : "ENSAE, Palaiseau (FR)"
   employer         : 
   pubmed           : # "https://crest.science"
