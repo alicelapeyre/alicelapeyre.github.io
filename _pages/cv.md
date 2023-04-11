@@ -19,13 +19,13 @@ Here is my complete [CV](https://github.com/alicelapeyre/alicelapeyre.github.io/
 
 * 2019-2020: Research Assistant
   * London School of Economics, London, UK
-  * Supervisor: Professor Camille Landais 
+  * Supervisor: Prof. Camille Landais 
 
 * Summer 20119: Research Intern 
   * CREST-ENSAE, Paris, France
-  * Supervisor: Professor Francis Kramarz
+  * Supervisor: Prof. Francis Kramarz
 
 * Summer 2018: Research Intern 
   * Warwick University, Coventry, UK
-  * Supervisor: Professor Roland Rathelot
+  * Supervisor: Prof. Roland Rathelot
   
