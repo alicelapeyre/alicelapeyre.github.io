@@ -23,7 +23,7 @@ You can contact me at: [alice.lapeyre@ensae.fr](mailto:alice.lapeyre@ensae.fr) a
 
 Upcoming presentations: 
 - May 2023: ZEW Public Finance (Mannheim)
-- June 2023: AFSE Congress (Sciences Po), BSE Summer Forum in Public Economics (Barcelona)
+- June 2023: BSE Summer Forum in Public Economics (Barcelona), AFSE Congress (Sciences Po)
 - Sept. 2023: EALE (Prague)
 
 <!--- Research fields: public and labor economics --->
