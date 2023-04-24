@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year Ph.D. Candidate at [CREST](https://crest.science) under the supervision of Prof. [Francis Kramarz](https://faculty.crest.fr/fkramarz/) (CREST/ENSAE) and Prof. [Camille Landais](https://econ.lse.ac.uk/staff/clandais/cgi-bin/index.php) (LSE). 
+I am a third year Ph.D. Candidate at [CREST](https://crest.science) under the supervision of Prof. [Roland Rathelot](http://rolandrathelot.com) (CREST/ENSAE) and Prof. [Camille Landais](https://econ.lse.ac.uk/staff/clandais/cgi-bin/index.php) (LSE). 
 
 I am interested in public and labour economics, more particularly in the design of social insurance policies on the labor market.
 <br />
