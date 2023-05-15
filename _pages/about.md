@@ -25,6 +25,7 @@ Upcoming presentations:
 - May 2023: ZEW Public Finance (Mannheim)
 - June 2023: BSE Summer Forum in Public Economics (Barcelona), AFSE Annual Congress (Sciences Po)
 - July 2023: IZA Summer School in Labor Economics (Berlin)
+- August 2023: EEA-ESEM (Barcelona)
 - Sept. 2023: EALE (Prague)
 
 <!--- Research fields: public and labor economics --->
