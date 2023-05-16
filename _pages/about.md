@@ -22,7 +22,6 @@ I visited [UC Berkeley](https://www.econ.berkeley.edu) during the 2022 Fall seme
 You can contact me at: [alice.lapeyre@ensae.fr](mailto:alice.lapeyre@ensae.fr) and find my [CV](https://github.com/alicelapeyre/alicelapeyre.github.io/raw/master/files/ALapeyre_CV.pdf) here.
 
 Upcoming presentations: 
-- May 2023: ZEW Public Finance (Mannheim)
 - June 2023: BSE Summer Forum in Public Economics (Barcelona), AFSE Annual Congress (Sciences Po)
 - July 2023: IZA Summer School in Labor Economics (Berlin)
 - August 2023: EEA-ESEM (Barcelona)
