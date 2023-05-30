@@ -22,10 +22,13 @@ I visited [UC Berkeley](https://www.econ.berkeley.edu) during the 2022 Fall seme
 You can contact me at: [alice.lapeyre@ensae.fr](mailto:alice.lapeyre@ensae.fr) and find my [CV](https://github.com/alicelapeyre/alicelapeyre.github.io/raw/master/files/ALapeyre_CV.pdf) here.
 
 Upcoming presentations: 
-- June 2023: BSE Summer Forum in Public Economics (Barcelona), AFSE Annual Congress (Sciences Po)
-- July 2023: IZA Summer School in Labor Economics (Berlin)
-- August 2023: IIPF (Logan), EEA-ESEM (Barcelona)
-- Sept. 2023: EALE (Prague)
+- RES PhD Conference (Glasgow, June 9)
+- BSE Summer Forum in Public Economics (Barcelona, June 14-15)
+- AFSE Annual Congress (Sciences Po, June 16)
+- IZA Summer School (Berlin, June 29-July 6)
+- IIPF (Logan, August 14-16)
+- EEA-ESEM (Barcelona, August 28 - Sept 1)
+- EALE (Prague, Sept 21-23)
 
 <!--- Research fields: public and labor economics --->
 
