@@ -24,7 +24,7 @@ You can contact me at: [alice.lapeyre@ensae.fr](mailto:alice.lapeyre@ensae.fr) a
 Upcoming presentations: 
 - RES PhD Conference (Glasgow, June 9)
 - BSE Summer Forum in Public Economics (Barcelona, June 14-15)
-- AFSE Annual Congress (Sciences Po, June 16)
+- AFSE Annual Congress (Sciences Po Paris, June 16)
 - IZA Summer School (Berlin, June 29-July 6)
 - IIPF (Logan, August 14-16)
 - EEA-ESEM (Barcelona, August 28 - Sept 1)
