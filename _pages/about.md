@@ -22,7 +22,6 @@ I visited [UC Berkeley](https://www.econ.berkeley.edu) during the 2022 Fall seme
 You can contact me at: [alice.lapeyre@ensae.fr](mailto:alice.lapeyre@ensae.fr) and find my [CV](https://github.com/alicelapeyre/alicelapeyre.github.io/raw/master/files/ALapeyre_CV.pdf) here.
 
 Upcoming presentations: 
-- RES PhD Conference (Glasgow, June 9)
 - BSE Summer Forum (Barcelona, June 14-15)
 - AFSE Annual Congress (Sciences Po Paris, June 16)
 - IZA Summer School (Berlin, June 29-July 6)
