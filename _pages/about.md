@@ -22,8 +22,6 @@ I visited [UC Berkeley](https://www.econ.berkeley.edu) during the 2022 Fall seme
 You can contact me at: [alice.lapeyre@ensae.fr](mailto:alice.lapeyre@ensae.fr) and find my [CV](https://github.com/alicelapeyre/alicelapeyre.github.io/raw/master/files/ALapeyre_CV.pdf) here.
 
 Upcoming presentations: 
-- BSE Summer Forum (Barcelona, June 14-15)
-- AFSE Annual Congress (Sciences Po Paris, June 16)
 - IZA Summer School (Berlin, June 29-July 6)
 - IIPF (Logan, August 14-16)
 - EEA-ESEM (Barcelona, August 28 - Sept 1)
@@ -32,6 +30,5 @@ Upcoming presentations:
 <!--- Research fields: public and labor economics --->
 
 <!--- References: 
-- [Francis Kramarz](https://faculty.crest.fr/fkramarz/)(CREST/ENSAE)
 - [Camille Landais](https://econ.lse.ac.uk/staff/clandais/cgi-bin/index.php) (LSE)
 - [Roland Rathelot](http://rolandrathelot.com) (CREST/ENSAE) --->
