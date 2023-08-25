@@ -19,11 +19,11 @@ I visited the [London School of Economics](https://www.lse.ac.uk), sponsored by 
 **Contact:** 
 <!--- and find my .--->
 
-Welcome to my website, my name is Jack. I am an economics PhD candidate at the London School of Economics. Happy to have passed through the University of York, University of Oxford, and University of California, Berkeley on the way.
+<!--- Welcome to my website, my name is Jack. I am an economics PhD candidate at the London School of Economics. Happy to have passed through the University of York, University of Oxford, and University of California, Berkeley on the way.--->
 
-My research aims to better understand the gig economy by using insights from applied microeconomics. More broadly, I am interested in how technology shapes labor markets. I also study some topics in household and public finance.
+<!--- My research aims to better understand the gig economy by using insights from applied microeconomics. More broadly, I am interested in how technology shapes labor markets. I also study some topics in household and public finance--->
 
-I will join the Platform Lab at Harvard’s D^3 Institute in fall 2023 as a postdoctoral fellow, before joining the University of Virginia’s economics department in summer 2024 as an assistant professor. In the meantime, I am excited to intern at Uber as an applied scientist.
+<!--- I will join the Platform Lab at Harvard’s D^3 Institute in fall 2023 as a postdoctoral fellow, before joining the University of Virginia’s economics department in summer 2024 as an assistant professor. In the meantime, I am excited to intern at Uber as an applied scientist.--->
 
 Please feel free to reach out by email: [alice.lapeyre@ensae.fr](mailto:alice.lapeyre@ensae.fr) 
 
