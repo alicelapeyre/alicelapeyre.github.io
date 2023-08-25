@@ -26,6 +26,8 @@ My research focuses on topics in labor and public economics. I am studying short
 
  My CV is available [here](https://github.com/alicelapeyre/alicelapeyre.github.io/raw/master/files/ALapeyre_CV.pdf).
 
+<br />
+
 **Contact**: [alice.lapeyre@ensae.fr](mailto:alice.lapeyre@ensae.fr) 
 <!--- and find my .--->
 
