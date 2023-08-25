@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am economics Ph.D. Candidate at [CREST](https://crest.science) (IP Paris) under the supervision of Prof. [Roland Rathelot](http://rolandrathelot.com) (CREST/ENSAE) and Prof. [Camille Landais](https://econ.lse.ac.uk/staff/clandais/cgi-bin/index.php) (LSE). I visited the [London School of Economics](https://www.lse.ac.uk), sponsored by Prof. Camille Landais, and [UC Berkeley](https://www.econ.berkeley.edu), sponsored by Prof. Emmanuel Saez.
+I am economics Ph.D. Candidate at [CREST](https://crest.science) under the supervision of Prof. [Roland Rathelot](http://rolandrathelot.com) (CREST/ENSAE) and Prof. [Camille Landais](https://econ.lse.ac.uk/staff/clandais/cgi-bin/index.php) (LSE). I visited the [London School of Economics](https://www.lse.ac.uk), sponsored by Prof. Camille Landais, and [UC Berkeley](https://www.econ.berkeley.edu), sponsored by Prof. Emmanuel Saez.
 
 <br />
 
