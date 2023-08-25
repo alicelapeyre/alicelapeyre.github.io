@@ -8,31 +8,29 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year Ph.D. Candidate in Economics at [CREST](https://crest.science) (IP Paris) under the supervision of Prof. [Roland Rathelot](http://rolandrathelot.com) (CREST/ENSAE) and Prof. [Camille Landais](https://econ.lse.ac.uk/staff/clandais/cgi-bin/index.php) (LSE). I visited the [London School of Economics](https://www.lse.ac.uk), sponsored by Prof. Camille Landais, and [UC Berkeley](https://www.econ.berkeley.edu), sponsored by Prof. Emmanuel Saez. 
+I am economics Ph.D. Candidate at [CREST](https://crest.science) (IP Paris) under the supervision of Prof. [Roland Rathelot](http://rolandrathelot.com) (CREST/ENSAE) and Prof. [Camille Landais](https://econ.lse.ac.uk/staff/clandais/cgi-bin/index.php) (LSE). I visited the [London School of Economics](https://www.lse.ac.uk), sponsored by Prof. Camille Landais, and [UC Berkeley](https://www.econ.berkeley.edu), sponsored by Prof. Emmanuel Saez. 
 <br />
 
 <!--- I am a labor economist studying how labor market policies and institutions affect wage inequality, in a global and historical perspectiv --->
 
-<!--- I am currently investigating how specific events in workers' career paths (e.g. job loss) affect their health status. I have also worked on the design of nutritional taxes to reduce childhood obesity.--->
-
 My research focuses on topics in labor and public economics. I am studying short-time work programs, currently investigating firms behavioral responses to economic incentives. I also study how firm adjust their labor demand to shocks. 
-<!---  and have stemporary workers. --->
 
+<!---  and have temporary workers. --->
 <!---  My research aims to better understand short-time work programs using insights from applied microeconomics --->
 <br />
 
-**Research interests:** Public Economics, Labour Economics, Applied Econometrics
+**Research interests**: Public Economics, Labour Economics, Applied Econometrics
 
-**Contact:** [alice.lapeyre@ensae.fr](mailto:alice.lapeyre@ensae.fr) 
+**Email**: [alice.lapeyre@ensae.fr](mailto:alice.lapeyre@ensae.fr) 
 <!--- and find my .--->
 
-<!--- Welcome to my website, my name is Jack. I am an economics PhD candidate at the London School of Economics. Happy to have passed through the University of York, University of Oxford, and University of California, Berkeley on the way.--->
+<!--- Happy to have passed through the University of York, University of Oxford, and University of California, Berkeley on the way.--->
 
 <!--- My research aims to better understand the gig economy by using insights from applied microeconomics. More broadly, I am interested in how technology shapes labor markets. I also study some topics in household and public finance--->
 
 <!--- I will join the Platform Lab at Harvard’s D^3 Institute in fall 2023 as a postdoctoral fellow, before joining the University of Virginia’s economics department in summer 2024 as an assistant professor. In the meantime, I am excited to intern at Uber as an applied scientist.--->
 
-My CV is available [here](https://github.com/alicelapeyre/alicelapeyre.github.io/raw/master/files/ALapeyre_CV.pdf).
+**CV**: available [here](https://github.com/alicelapeyre/alicelapeyre.github.io/raw/master/files/ALapeyre_CV.pdf).
 
 **Upcoming presentations:** 
 - EEA-ESEM (Barcelona, Spain, August 28 - Sept 1)
