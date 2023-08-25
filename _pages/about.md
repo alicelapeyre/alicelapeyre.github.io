@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am economics Ph.D. Candidate at [CREST](https://crest.science) (IP Paris) under the supervision of Prof. [Roland Rathelot](http://rolandrathelot.com) (CREST/ENSAE) and Prof. [Camille Landais](https://econ.lse.ac.uk/staff/clandais/cgi-bin/index.php) (LSE). I visited the [London School of Economics](https://www.lse.ac.uk), sponsored by Prof. Camille Landais, and [UC Berkeley](https://www.econ.berkeley.edu), sponsored by Prof. Emmanuel Saez. My CV is available [here](https://github.com/alicelapeyre/alicelapeyre.github.io/raw/master/files/ALapeyre_CV.pdf).
+I am economics Ph.D. Candidate at [CREST](https://crest.science) (IP Paris) under the supervision of Prof. [Roland Rathelot](http://rolandrathelot.com) (CREST/ENSAE) and Prof. [Camille Landais](https://econ.lse.ac.uk/staff/clandais/cgi-bin/index.php) (LSE). I visited the [London School of Economics](https://www.lse.ac.uk), sponsored by Prof. Camille Landais, and [UC Berkeley](https://www.econ.berkeley.edu), sponsored by Prof. Emmanuel Saez.
 
 <br />
 
@@ -21,6 +21,12 @@ My research focuses on topics in labor and public economics. I am studying short
 <br />
 
 **Research interests**: Public Economics, Labour Economics, Applied Econometrics
+
+<br />
+
+ My CV is available [here](https://github.com/alicelapeyre/alicelapeyre.github.io/raw/master/files/ALapeyre_CV.pdf).
+
+ <br />
 
 **Contact**: [alice.lapeyre@ensae.fr](mailto:alice.lapeyre@ensae.fr) 
 <!--- and find my .--->
