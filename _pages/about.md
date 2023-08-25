@@ -8,15 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year Ph.D. Candidate at [CREST](https://crest.science) under the supervision of Prof. [Roland Rathelot](http://rolandrathelot.com) (CREST/ENSAE) and Prof. [Camille Landais](https://econ.lse.ac.uk/staff/clandais/cgi-bin/index.php) (LSE). 
+I am a third year Ph.D. Candidate at [CREST](https://crest.science) under the supervision of Prof. [Roland Rathelot](http://rolandrathelot.com) (CREST/ENSAE) and Prof. [Camille Landais](https://econ.lse.ac.uk/staff/clandais/cgi-bin/index.php) (LSE). I visited the [London School of Economics](https://www.lse.ac.uk), sponsored by Prof. Camille Landais, and [UC Berkeley](https://www.econ.berkeley.edu), sponsored by Prof. Emmanuel Saez. 
+<br />
 
 I am interested in public and labour economics, more particularly in the design of social insurance policies on the labor market.
 <br />
 
-I visited the [London School of Economics](https://www.lse.ac.uk), sponsored by Prof. Camille Landais, and [UC Berkeley](https://www.econ.berkeley.edu), sponsored by Prof. Emmanuel Saez. 
-<br />
-
-**Contact:** 
+<!--- **Contact:** --->
 <!--- and find my .--->
 
 <!--- Welcome to my website, my name is Jack. I am an economics PhD candidate at the London School of Economics. Happy to have passed through the University of York, University of Oxford, and University of California, Berkeley on the way.--->
