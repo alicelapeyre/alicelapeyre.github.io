@@ -16,14 +16,13 @@ I am interested in public and labour economics, more particularly in the design 
 I visited the [London School of Economics](https://www.lse.ac.uk), sponsored by Prof. Camille Landais, and [UC Berkeley](https://www.econ.berkeley.edu), sponsored by Prof. Emmanuel Saez. 
 <br />
 
-Contact: [alice.lapeyre@ensae.fr](mailto:alice.lapeyre@ensae.fr) 
+**Contact:** [alice.lapeyre@ensae.fr](mailto:alice.lapeyre@ensae.fr) 
 <!--- and find my [CV](https://github.com/alicelapeyre/alicelapeyre.github.io/raw/master/files/ALapeyre_CV.pdf) here.--->
 
-Upcoming presentations: 
-- IZA Summer School (Berlin, June 29-July 6)
-- IIPF (Logan, August 14-16)
-- EEA-ESEM (Barcelona, August 28 - Sept 1)
-- EALE (Prague, Sept 21-23)
+**Upcoming presentations:** 
+- EEA-ESEM (Barcelona, Spain, August 28 - Sept 1)
+- EALE (Prague,Czech Republic, Sept 21-23)
+- 18th IZA & 5th IZA/CREST Conference: Labor Market Policy Evaluation (Palaiseau, France, October 19-20)
 
 <!--- Research fields: public and labor economics --->
 
