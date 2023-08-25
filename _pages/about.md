@@ -13,13 +13,10 @@ I am a third year Ph.D. Candidate at [CREST](https://crest.science) under the su
 I am interested in public and labour economics, more particularly in the design of social insurance policies on the labor market.
 <br />
 
-I visited the [London School of Economics](https://www.lse.ac.uk) both in 2022 and 2023, sponsored by Prof. Camille Landais.
+I visited the [London School of Economics](https://www.lse.ac.uk), sponsored by Prof. Camille Landais, and [UC Berkeley](https://www.econ.berkeley.edu), sponsored by Prof. Emmanuel Saez. 
 <br />
 
-I visited [UC Berkeley](https://www.econ.berkeley.edu) during the 2022 Fall semester, sponsored by Prof. Emmanuel Saez. 
-<br />
-
-You can contact me at: [alice.lapeyre@ensae.fr](mailto:alice.lapeyre@ensae.fr) and find my [CV](https://github.com/alicelapeyre/alicelapeyre.github.io/raw/master/files/ALapeyre_CV.pdf) here.
+Contact: [alice.lapeyre@ensae.fr](mailto:alice.lapeyre@ensae.fr) <!--- and find my [CV](https://github.com/alicelapeyre/alicelapeyre.github.io/raw/master/files/ALapeyre_CV.pdf) here.--->
 
 Upcoming presentations: 
 - IZA Summer School (Berlin, June 29-July 6)
