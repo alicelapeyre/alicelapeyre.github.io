@@ -14,7 +14,7 @@ description              : &description "Ph.D. Candidate in Economics at CREST, 
 url                      : https://alicelapeyre.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "alicelap.github.io/alicelapeyre.github.io/"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x500.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Alice Lapeyre"
-  avatar           : "bio-photo.JPEG"{{< resize_options="500x250" >}}
+  avatar           : "bio-photo.JPEG" 
   bio              : "Ph.D. Candidate in Economics at CREST, ENSAE, Institut Polytechnique de Paris"
   location         : "ENSAE, Palaiseau (FR)"
   employer         : 
@@ -310,4 +310,4 @@ compress_html:
   ignore:
     envs: development
 
-theme: jekyll-theme-minimal
+theme: 1950s #jekyll-theme-minimal
