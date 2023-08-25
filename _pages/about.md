@@ -21,8 +21,6 @@ My research focuses on topics in labor and public economics. I am studying short
 
 **Research interests**: Public Economics, Labour Economics, Applied Econometrics
 
-My CV is available [here](https://github.com/alicelapeyre/alicelapeyre.github.io/raw/master/files/ALapeyre_CV.pdf).
-
 **Contact**: [alice.lapeyre@ensae.fr](mailto:alice.lapeyre@ensae.fr) 
 <!--- and find my .--->
 
@@ -31,6 +29,9 @@ My CV is available [here](https://github.com/alicelapeyre/alicelapeyre.github.io
 <!--- My research aims to better understand the gig economy by using insights from applied microeconomics. More broadly, I am interested in how technology shapes labor markets. I also study some topics in household and public finance--->
 
 <!--- I will join the Platform Lab at Harvard’s D^3 Institute in fall 2023 as a postdoctoral fellow, before joining the University of Virginia’s economics department in summer 2024 as an assistant professor. In the meantime, I am excited to intern at Uber as an applied scientist.--->
+
+**CV**: available [here](https://github.com/alicelapeyre/alicelapeyre.github.io/raw/master/files/ALapeyre_CV.pdf).
+
 
 **Upcoming presentations:** 
 - EEA-ESEM (Barcelona, Spain, August 28 - Sept 1)
