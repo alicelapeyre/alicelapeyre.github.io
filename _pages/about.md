@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am economics Ph.D. Candidate at [CREST](https://crest.science) (IP Paris) under the supervision of Prof. [Roland Rathelot](http://rolandrathelot.com) (CREST/ENSAE) and Prof. [Camille Landais](https://econ.lse.ac.uk/staff/clandais/cgi-bin/index.php) (LSE). I visited the [London School of Economics](https://www.lse.ac.uk), sponsored by Prof. Camille Landais, and [UC Berkeley](https://www.econ.berkeley.edu), sponsored by Prof. Emmanuel Saez. 
+I am economics Ph.D. Candidate at [CREST](https://crest.science) (IP Paris) under the supervision of Prof. [Roland Rathelot](http://rolandrathelot.com) (CREST/ENSAE) and Prof. [Camille Landais](https://econ.lse.ac.uk/staff/clandais/cgi-bin/index.php) (LSE). I visited the [London School of Economics](https://www.lse.ac.uk), sponsored by Prof. Camille Landais, and [UC Berkeley](https://www.econ.berkeley.edu), sponsored by Prof. Emmanuel Saez. My CV is available [here](https://github.com/alicelapeyre/alicelapeyre.github.io/raw/master/files/ALapeyre_CV.pdf).
+
 <br />
 
 <!--- I am a labor economist studying how labor market policies and institutions affect wage inequality, in a global and historical perspectiv --->
@@ -30,7 +31,6 @@ My research focuses on topics in labor and public economics. I am studying short
 
 <!--- I will join the Platform Lab at Harvard’s D^3 Institute in fall 2023 as a postdoctoral fellow, before joining the University of Virginia’s economics department in summer 2024 as an assistant professor. In the meantime, I am excited to intern at Uber as an applied scientist.--->
 
-**CV**: available [here](https://github.com/alicelapeyre/alicelapeyre.github.io/raw/master/files/ALapeyre_CV.pdf).
 
 
 **Upcoming presentations:** 
