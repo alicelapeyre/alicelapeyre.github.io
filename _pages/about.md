@@ -21,7 +21,7 @@ My research focuses on topics in labor and public economics. I am studying short
 
 **Research interests**: Public Economics, Labour Economics, Applied Econometrics
 
-**Email**: [alice.lapeyre@ensae.fr](mailto:alice.lapeyre@ensae.fr) 
+**Contect**: [alice.lapeyre@ensae.fr](mailto:alice.lapeyre@ensae.fr) 
 <!--- and find my .--->
 
 <!--- Happy to have passed through the University of York, University of Oxford, and University of California, Berkeley on the way.--->
@@ -30,7 +30,7 @@ My research focuses on topics in labor and public economics. I am studying short
 
 <!--- I will join the Platform Lab at Harvard’s D^3 Institute in fall 2023 as a postdoctoral fellow, before joining the University of Virginia’s economics department in summer 2024 as an assistant professor. In the meantime, I am excited to intern at Uber as an applied scientist.--->
 
-**CV**: available [here](https://github.com/alicelapeyre/alicelapeyre.github.io/raw/master/files/ALapeyre_CV.pdf).
+My CV is available [here](https://github.com/alicelapeyre/alicelapeyre.github.io/raw/master/files/ALapeyre_CV.pdf).
 
 **Upcoming presentations:** 
 - EEA-ESEM (Barcelona, Spain, August 28 - Sept 1)
