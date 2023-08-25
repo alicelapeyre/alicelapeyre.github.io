@@ -81,9 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Alice Lapeyre"
-  avatar           : 
-    "bio-photo.JPEG".Resize "600x400"
-    shape = "circle"
+  avatar           : "bio-photo.JPEG"
   bio              : "Ph.D. Candidate in Economics at CREST, ENSAE, Institut Polytechnique de Paris"
   location         : "ENSAE, Palaiseau (FR)"
   employer         : 
