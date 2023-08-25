@@ -31,7 +31,7 @@ My CV is available [here](https://github.com/alicelapeyre/alicelapeyre.github.io
 
 **Upcoming presentations:** 
 - EEA-ESEM (Barcelona, Spain, August 28 - Sept 1)
-- EALE (Prague,Czech Republic, Sept 21-23)
+- EALE (Prague, Czech Republic, Sept 21-23)
 - 18th IZA & 5th IZA/CREST Conference: Labor Market Policy Evaluation (Palaiseau, France, October 19-20)
 
 
