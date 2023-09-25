@@ -28,10 +28,7 @@ My research focuses on topics in labor and public economics. I am studying short
 
 <!--- I will join the Platform Lab at Harvard’s D^3 Institute in fall 2023 as a postdoctoral fellow, before joining the University of Virginia’s economics department in summer 2024 as an assistant professor. In the meantime, I am excited to intern at Uber as an applied scientist.--->
 
-**Upcoming presentations:** 
-- EEA-ESEM (Barcelona, Spain, August 28 - Sept 1)
-- EALE (Prague, Czech Republic, Sept 21-23)
-- 18th IZA & 5th IZA/CREST Conference: Labor Market Policy Evaluation (Palaiseau, France, October 19-20)
+**Upcoming presentation:** 18th IZA & 5th IZA/CREST Conference: Labor Market Policy Evaluation (Palaiseau, France, October 19-20)
 
 
 
