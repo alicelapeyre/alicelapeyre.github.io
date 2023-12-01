@@ -8,7 +8,7 @@ author_profile: true
 <!---## Teaching--->
 ## ENSAE
 - [Econometrics I](https://www.ensae.fr/en/courses/145), (graduate level, Fall 2020, 2021, 2023)
-    - Teaching Assistant for Prof. Xavier d'Haultfoeuille 
+    - Teaching Assistant for Prof. Xavier d'Haultfoeuille and Prof. Elia Lapenta
 - [Econometrics II](https://www.ensae.fr/en/courses/150), (graduate level, Spring 2021)
     - Teaching Assistant for Prof. Michael Visser 
 - [Econometrics - 3A CI/MS](https://www.ensae.fr/en/courses/156) (graduate level, Summer 2021)
