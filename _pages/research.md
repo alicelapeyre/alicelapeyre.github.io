@@ -32,7 +32,9 @@ In the media: <a href="https://voxeu.org/article/social-insurance-policies-turbu
 <ul>
  <li> Firm Moral Hazard in Short-Time Work 
 </li> 
-<li> Employed In-house or Outsourced - Where Do Workers in Services Stand? [Master Thesis]
+<li> Employed In-house or Outsourced - Where Do Workers in Services Stand? 
+</li> 
+<li> Firm Expectations and Labor Adjustment 
 </li> 
  
 </ul>
