@@ -21,20 +21,15 @@ In the media: <a href="https://voxeu.org/article/social-insurance-policies-turbu
 <p> <ins>Abstract:</ins> What is the most efficient way to respond to recessions in the labor market? To this question, policymakers on both sides of the pond gave two diametrically opposed answers during the recent crisis. In the US, the focus was on insuring workers, by aggressively increasing the generosity of unemployment insurance. In Europe, to the contrary, policies were concentrated on saving job matches, with the massive use of labor hoarding subsidies through short-time-work programs, on which so little is actually known. So who got it right? Should we insure workers or jobs during recessions? In this article, we show that far from being substitutes, unemployment insurance and short-time-work policies exhibit strong complementarities. They provide insurance to different types of workers, and against different types of shocks. Short-time-work can be an effective way to reduce socially costly layoffs against large temporary shocks but is less effective against more persistent shocks that require reallocation across firms and sectors. Overall, we conclude that short-time-work is an important and useful addition to the labor market policy-toolkit during recessions, which should be used alongside unemployment insurance.</p>
 </ul>
 
-<br />
-
 ## Working Paper
 
 <ul>
  <li> <b> Firm Moral Hazard in Short-Time Work </b>
 </li> 
- 
 <br />
  
 <p> <ins>Abstract:</ins> Short-time work (STW) programs held a central stage in the policy response to the pandemic in Europe, subsidizing temporary reduction in hours worked. While there is a growing literature on their employment effects, it has remained silent on moral hazard. Yet, its rapid expansion and large upscaling likely fueled moral hazard. This papers intends to quantify behavioral responses to STW in the context of France during the pandemic. Using exhaustive establishment-level and worker-level data on STW take-up and quasi-experimental variations in employer contribution to the program, I study two types of behavioral responses (i) misreporting and (ii) changes in real economic behavior. I estimate a bunching response to a discontinuity in cost along the wage distribution which stems from a reporting margin only. Using a variation in employer contribution across industries, I quantify a misreporting response as well as real adjustments of labor demand. </p>
  </ul>
-
- <br />
  
 ## Work in Progress 
 
@@ -44,8 +39,6 @@ In the media: <a href="https://voxeu.org/article/social-insurance-policies-turbu
 <li> Firm Expectations and Labor Demand 
 </li> 
 </ul>
-
-<br />
 
 ## Policy Work and Other Writing 
 <ul>
