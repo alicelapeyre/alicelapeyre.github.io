@@ -22,7 +22,6 @@ In the media: <a href="https://voxeu.org/article/social-insurance-policies-turbu
 </ul>
 
 <br />
-<br />
 
 ## Working Paper
 
