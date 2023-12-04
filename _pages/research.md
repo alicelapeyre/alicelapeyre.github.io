@@ -33,9 +33,9 @@ In the media: <a href="https://voxeu.org/article/social-insurance-policies-turbu
 ## Work in Progress 
 
 <ul>
-<li> Employed In-house or Outsourced - Where Do Workers in Services Stand? 
+<li> <b> Employed In-house or Outsourced - Where Do Workers in Services Stand? </b> 
 </li> 
-<li> Firm Expectations and Labor Demand 
+<li> <b> Firm Expectations and Labor Demand </b> 
 </li> 
 </ul>
 
