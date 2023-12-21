@@ -31,7 +31,7 @@ In the media: <a href="https://voxeu.org/article/social-insurance-policies-turbu
 ## Working Paper
 
 <ul>
-<li> <b> <a href="https://www.dropbox.com/scl/fi/mlphlo9gmmht9pdybfpx6/STW_MH_AliceLapeyre.pdf?rlkey=46u3i7yc0lttih5htzefmt4nc&dl=0"> Firm Moral Hazard in Short-Time Work </a> </b> </li>
+<li> <b> Firm Moral Hazard in Short-Time Work </b> _(Available upon request)_ </li>
  
 <p> <ins>Abstract:</ins> Short-time work (STW) programs held a central stage in the policy response to the pandemic in Europe, subsidizing temporary reductions in hours worked. STW main objectives are to stabilize employment and provide insurance to workers (and firms). But, as any social insurance program, it may trigger moral hazard responses, the nature and extent of which has been largely under explored in the literature. This papers intends to quantify behavioral responses to STW in the context of France during the pandemic. Using exhaustive establishment-level and worker-level data on STW take-up and quasi-experimental variation in employer contributions to the program, I study two types of behavioral responses: (i) misreporting and (ii) changes in real economic behavior. I document bunching around a discontinuity in employer's STW costs along the wage distribution which is revealing of a pure reporting response. Using variation in employer contributions across industries, I quantify a misreporting response as well as real labor demand adjustments. </p>
  </ul>
