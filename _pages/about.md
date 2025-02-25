@@ -21,7 +21,7 @@ My research focuses on topics in labor and public economics. I am studying short
 
  My CV is available [here](https://github.com/alicelapeyre/alicelapeyre.github.io/raw/master/files/ALapeyre_CV.pdf).
 
-**Contact**: [alice.lapeyre@ensae.fr](mailto:alice.lapeyre@ensae.fr) 
+**Contact**: [alice.lapeyre@ensae.fr](mailto:alice.lapeyre@ensae.fr) / [alicepietlapeyre@gmail.fr](mailto:alicepietlapeyre@gmail.com)
 <!--- and find my .--->
 
 <!--- Happy to have passed through the University of York, University of Oxford, and University of California, Berkeley on the way.--->
