@@ -18,6 +18,8 @@ CEPR Discussion Paper No. 16421
  <br />
 In the media: <a href="https://voxeu.org/article/social-insurance-policies-turbulent-times-short-time-work-versus-unemployment-insurance"> VoxEu</a>  
  <br />
+ Cited in the <a href="[https://voxeu.org/article/social-insurance-policies-turbulent-times-short-time-work-versus-unemployment-insurance](https://bidenwhitehouse.archives.gov/wp-content/uploads/2025/01/ERP-2025.pdf)"> 2025 Economic Report of the President</a>  
+ <br />
 
 <details><summary>[Abstract]</summary>
 <p>
