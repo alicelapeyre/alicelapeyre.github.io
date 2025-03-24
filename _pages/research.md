@@ -46,6 +46,13 @@ In the media: <a href="https://voxeu.org/article/social-insurance-policies-turbu
 </ul>
 
 ## Policy Work and Other Writing 
+
+<ul>
+ <li> Bozio, A., J. Ferreira,C. Landais, A. Lapeyre, M. Modena and M. Molaro (2025) <a href="https://www.cae-eco.fr/objectif-plein-emploi-pourquoi-et-comment"> “Objectif "plein emploi": pourquoi et comment?”</a>, <em> Focus 110 CAE
+</li> 
+ <a href="https://www.cae-eco.fr/staticfiles/pdf/pleinemploislides.pdf"> Slides </a>
+</ul>
+ 
 <ul>
  <li> Giupponi, G., C. Landais and A. Lapeyre (2022) <a href="https://www.dropbox.com/s/0vt56wjnawaq54g/POW_2022_Vol26_Pgs64-67_GiupponiLandaisLapeyre.pdf?dl=0"> “Unemployment Insurance versus Short-Time Work: What Should Governments Do?”</a>, <em> 2022 LERA Perspectives on Work</em>
 </li> 
