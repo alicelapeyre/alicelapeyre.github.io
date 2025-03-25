@@ -10,7 +10,7 @@ redirect_from:
 
 I am an economist at the <b> [French Council of Economic Analysis (CAE)](https://www.cae-eco.fr/en/) <b>. 
 
-I received my PhD in Economics from <b>[CREST](https://crest.science)<b> in 2024, supervised by Roland Rathelot (CREST/ENSAE) and Camille Landais (LSE). During my PhD, I visited the [London School of Economics](https://www.lse.ac.uk), hosted by Camille Landais, and [UC Berkeley](https://www.econ.berkeley.edu), hosted by Emmanuel Saez.
+I received my PhD in Economics from <b> [CREST](https://crest.science) <b> in 2024, supervised by Roland Rathelot (CREST/ENSAE) and Camille Landais (LSE). During my PhD, I visited the [London School of Economics](https://www.lse.ac.uk), hosted by Camille Landais, and [UC Berkeley](https://www.econ.berkeley.edu), hosted by Emmanuel Saez.
 
 My research focuses on topics in labor and public economics. I am studying short-time work programs, currently investigating firms behavioral responses to economic incentives. I also study how firm adjust their labor demand to shocks. 
 
