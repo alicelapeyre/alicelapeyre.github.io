@@ -51,6 +51,8 @@ In the media: <a href="https://voxeu.org/article/social-insurance-policies-turbu
  <li> Bozio, A., J. Ferreira, C. Landais, A. Lapeyre, M. Modena and M. Molaro (2025) <a href="https://www.cae-eco.fr/staticfiles/pdf/focus-110-plein-emploi-250307.pdf"> “Objectif "plein emploi": pourquoi et comment?”</a>, <em> Focus 110 CAE</em>
 </li> 
  <a href="https://www.cae-eco.fr/staticfiles/pdf/pleinemploislides.pdf"> Slides </a>
+ <a href="https://www.dropbox.com/scl/fi/9xj06bzcwjl3cwqj9aamh/Code_Replication.zip?rlkey=ozpzzjye7hybj4wl1ssfp76ji&e=1&st=205xq3fu&dl=0"> Replication package </a>
+ 
 </ul>
  
 <ul>
