@@ -33,17 +33,17 @@ In the media: <a href="https://voxeu.org/article/social-insurance-policies-turbu
 ## Working Paper
 
 <ul>
-<li> <b> Firm Moral Hazard in Short-Time Work </b> <em>(Available upon request)</em> </li>
- 
-<p> <ins>Abstract:</ins> Short-time work (STW) programs held a central stage in the policy response to the pandemic in Europe, subsidizing temporary reductions in hours worked. STW main objectives are to stabilize employment and provide insurance to workers (and firms). But, as any social insurance program, it may trigger moral hazard responses, the nature and extent of which has been largely under explored in the literature. This papers intends to quantify behavioral responses to STW in the context of France during the pandemic. Using exhaustive establishment-level and worker-level data on STW take-up and quasi-experimental variation in employer contributions to the program, I study two types of behavioral responses: (i) misreporting and (ii) changes in real economic behavior. I document bunching around a discontinuity in employer's STW costs along the wage distribution which is revealing of a pure reporting response. Using variation in employer contributions across industries, I quantify a misreporting response as well as real labor demand adjustments. </p>
- </ul>
-
-<ul>
 <li> <b> Où sont les gisements de l’offre de travail en France ? Enseignements d’une comparaison internationale </b> (with Antoine Bozio, Jean Ferreira, Camille Landais, and Mariane Modena)
 </li> 
 <b> <em> R&R at Economie et Statistique / Economics and Statistics </em></b> 2025. 
 
 <p> <ins>Abstract:</ins> Ce papier étudie 55 ans d’évolution du marché du travail en France, au Royaume-Uni, en Allemagne et aux États-Unis. Cette comparaison met en évidence les marges de manœuvre dont dispose la France pour accroître l’emploi et le volume horaire. Nous désagrégeons l’offre de travail totale pour en comprendre la structure et les évolutions. En 2023, un Français travaille en moyenne 100 heures de moins qu’un Allemand ou un Anglais, et 300 de moins qu’un Américain. L’écart avec les pays européens tient surtout au faible taux d’emploi français, marqué chez les jeunes et les seniors. Nous décomposons ensuite l’évolution du temps de travail sur vingt ans entre changements démographiques et d’offre de travail. L’analyse souligne la hausse des heures travaillées par les femmes et les seniors et le recul du travail peu qualifié, avant de discuter les implications pour les politiques publiques.</p>
+ </ul>
+
+<ul>
+<li> <b> Firm Moral Hazard in Short-Time Work </b> <em>(Available upon request)</em> </li>
+ 
+<p> <ins>Abstract:</ins> Short-time work (STW) programs held a central stage in the policy response to the pandemic in Europe, subsidizing temporary reductions in hours worked. STW main objectives are to stabilize employment and provide insurance to workers (and firms). But, as any social insurance program, it may trigger moral hazard responses, the nature and extent of which has been largely under explored in the literature. This papers intends to quantify behavioral responses to STW in the context of France during the pandemic. Using exhaustive establishment-level and worker-level data on STW take-up and quasi-experimental variation in employer contributions to the program, I study two types of behavioral responses: (i) misreporting and (ii) changes in real economic behavior. I document bunching around a discontinuity in employer's STW costs along the wage distribution which is revealing of a pure reporting response. Using variation in employer contributions across industries, I quantify a misreporting response as well as real labor demand adjustments. </p>
  </ul>
 
 ## Selected Work in Progress 
