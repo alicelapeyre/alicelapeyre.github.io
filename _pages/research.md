@@ -48,6 +48,13 @@ In the media: <a href="https://voxeu.org/article/social-insurance-policies-turbu
 ## Policy Work and Other Writing 
 
 <ul>
+ <li> Bozio, A., A. Lapeyre, E. Weber, B. Runschke, M. Schnitzer, L. Simon and M. Werding (2025) <a href="https://cae-eco.fr/static/pdf/FGCEE_Joint-statement_Labor-Market_250827.pdf"> “Fostering Employment and Total
+Hours Worked: Perspectives
+for France and Germany”</a>, <em> Joint Statement CAE</em>
+</li> 
+</ul>
+
+<ul>
  <li> Bozio, A., J. Ferreira, C. Landais, A. Lapeyre, M. Modena and M. Molaro (2025) <a href="https://www.cae-eco.fr/staticfiles/pdf/focus-110-plein-emploi-250307.pdf"> “Objectif "plein emploi": pourquoi et comment?”</a>, <em> Focus 110 CAE</em>
 </li> 
  <a href="https://www.cae-eco.fr/staticfiles/pdf/pleinemploislides.pdf"> Slides </a>
