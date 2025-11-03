@@ -74,7 +74,7 @@ Why it Matters and How to Get There?”</a>, <em> Focus 110 CAE</em>
 </ul>
 
 <ul>
- <li> Giupponi, G., C. Landais and A. Lapeyre (2022) <a href="https://www.dropbox.com/s/0vt56wjnawaq54g/POW_2022_Vol26_Pgs64-67_GiupponiLandaisLapeyre.pdf?dl=0"> “Unemployment Insurance versus Short-Time Work: What Should Governments Do?”</a>, <em> 2022 LERA Perspectives on Work</em>
+ <li> Giupponi, G., C. Landais and A. Lapeyre (2022) <a href="https://www.dropbox.com/scl/fi/lde2trw9hdkmhq582prys/POW_2022_Vol26_Pgs64-67_GiupponiLandaisLapeyre.pdf?rlkey=oulrj3ragtrop1gh0bs07pa2j&dl=0"> “Unemployment Insurance versus Short-Time Work: What Should Governments Do?”</a>, <em> 2022 LERA Perspectives on Work</em>
 </li> 
  
 </ul>
