@@ -56,7 +56,7 @@ In the media: <a href="https://voxeu.org/article/social-insurance-policies-turbu
 ## Policy Work and Other Writing 
 
 <ul>
- <li> Auriol, E., Beuve J., and A. Lapeyre (2025) <a href="[https://cae-eco.fr/static/pdf/FGCEE_Joint-statement_Labor-Market_250827.pdf](https://www.liberation.fr/idees-et-debats/pour-un-big-push-vers-legalite-salariale-hommes-femmes-20251109_G4LXGMTULZFPDEJTOSVQEGYT2E/)"> “Pour un big-push vers l’égalité salariale hommes-femmes !”</a>, <em> Chronique Libération (in print Nov. 7 2025, and online)</em>
+ <li> Auriol, E., Beuve J., and A. Lapeyre (2025) <a href="https://www.liberation.fr/idees-et-debats/pour-un-big-push-vers-legalite-salariale-hommes-femmes-20251109_G4LXGMTULZFPDEJTOSVQEGYT2E/"> “Pour un big-push vers l’égalité salariale hommes-femmes !”</a>, <em> Chronique Libération (in print Nov. 7 2025, and online)</em>
 </li> 
 </ul>
 
