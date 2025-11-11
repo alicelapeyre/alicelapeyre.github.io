@@ -10,9 +10,9 @@ author_profile: true
 <ul>
 <li> <b> <a href="https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.36.2.29"> Should We Insure Workers or Jobs During Recessions? </a> </b> (with Giulia Giupponi and Camille Landais)
 </li> 
-<b> <em> Journal of Economic Perspectives</em></b> 36(2): 29-54, 2022. <a href="https://www.dropbox.com/s/6c315g39qo1zh65/JEP_STW_UI_Appendix_220411.pdf?dl=0"> Online Appendix </a>
+<b> <em> Journal of Economic Perspectives</em></b> 36(2): 29-54, 2022. <a href="https://www.dropbox.com/scl/fi/iyucy5xgdhnciw1wredwi/JEP_STW_UI_Appendix_220411.pdf?rlkey=tg61490zuco6vdtt6le9sllsy&dl=0"> Online Appendix </a>
 <br />
- <a href ="https://www.dropbox.com/s/tvl2mimvx5xcu4i/WP_STW_UI_Paper_Appendix_220204.pdf?dl=0"> Working Paper </a>
+ <a href ="https://www.dropbox.com/scl/fi/ub9la65bvk6igsvqxt4oy/WP_STW_UI_Paper_Appendix_220204.pdf?rlkey=c8fxa45ijx9kwz47dk0ezr834&dl=0"> Working Paper </a>
 <br />
 CEPR Discussion Paper No. 16421 
  <br />
