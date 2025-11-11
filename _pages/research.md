@@ -69,7 +69,7 @@ for France and Germany”</a>, <em> Joint Statement CAE</em>
  <br />
  <a href="https://www.dropbox.com/scl/fi/9xj06bzcwjl3cwqj9aamh/Code_Replication.zip?rlkey=ozpzzjye7hybj4wl1ssfp76ji&e=1&st=205xq3fu&dl=0"> Replication package </a>
  <br />
-English version: <a href="https://www.dropbox.com/scl/fi/n278g1au2znfermupgfb2/Focus_110_Plein-emploi_250716_EN.pdf?rlkey=vrnjjej73gzw48f40rmq1kyxu&st=scsigxv3&dl=0"> “Aiming for "Full Employment":
+English version: <a href="https://cae-eco.fr/static/pdf/Focus110-Plein-emploi-250716-EN.pdf"> “Aiming for "Full Employment":
 Why it Matters and How to Get There?”</a>, <em> Focus 110 CAE</em>
 </ul>
 
