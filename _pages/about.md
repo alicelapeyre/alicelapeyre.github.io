@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a **Senior Economist** at the **[French Council for Economic Analysis (Prime Minister's Office)](https://www.cae-eco.fr/en/)**, where I lead quantitative analyses on employment, productivity and innovation, and social insurance.
+I am a **Senior Economist** at the **[French Council for Economic Analysis](https://www.cae-eco.fr/en/)**  (Prime Minister's Office), where I lead quantitative analyses on employment, productivity and innovation, and social insurance.
 
 Ongoing projects include : 
 - Rethinking unemployment insurance, with François Fontaine, Roland Rathelot, and Alexandra Roulet.
