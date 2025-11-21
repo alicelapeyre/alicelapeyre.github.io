@@ -14,7 +14,7 @@ Ongoing projects include :
 - Rethinking unemployment insurance, with François Fontaine, Roland Rathelot, and Alexandra Roulet.
 - Productivity and innovation (AI), with Antonin Bergeaud, Simon Bunel, and Xavier Jaravel. 
     
-I hold a **Ph.D. in Economics** from [CREST](https://crest.science), supervised by Camille Landais (LSE) and Roland Rathelot (CREST). I visited the London School of Economics and UC Berkeley.
+I hold a **Ph.D. in Economics** from CREST, supervised by Camille Landais (LSE) and Roland Rathelot (CREST). I visited the London School of Economics and UC Berkeley.
 
 **Research fields**: Public Economics, Labour Economics, Applied Econometrics
 
