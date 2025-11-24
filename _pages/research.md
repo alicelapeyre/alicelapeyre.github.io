@@ -33,7 +33,7 @@ In the media: <a href="https://voxeu.org/article/social-insurance-policies-turbu
 ## Working Paper
 
 <ul>
-<li> <b> Où sont les gisements de l’offre de travail en France ? Enseignements d’une comparaison internationale </a> </b> (with Antoine Bozio, Jean Ferreira, Camille Landais, and Mariane Modena)
+<li> <b> Où sont les gisements de l’offre de travail en France ? Enseignements d’une comparaison internationale </b> (with Antoine Bozio, Jean Ferreira, Camille Landais, and Mariane Modena)
 </li> 
 <b> <em> R&R at Economie et Statistique / Economics and Statistics </em></b> 2025. 
 
