@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a **Senior Economist** at the **[French Council for Economic Analysis](https://www.cae-eco.fr/en/)**  (Prime Minister's Office), where I lead quantitative analyses on employment, productivity and innovation, and social insurance.
+I am a **Senior Economist** at the **[French Council for Economic Analysis](https://www.cae-eco.fr/en/)**  (Prime Minister's Office), where I lead quantitative analyses on employment, productivity and AI adoption, and social insurance.
 
 Ongoing projects include : 
 - Rethinking unemployment insurance, with François Fontaine, Roland Rathelot, and Alexandra Roulet.
-- Productivity and innovation (AI), with Antonin Bergeaud, Simon Bunel, and Xavier Jaravel. 
+- Productivity and AI adoption, with Antonin Bergeaud, Simon Bunel, and Xavier Jaravel. 
     
 I hold a **Ph.D. in Economics** from CREST, supervised by Camille Landais (LSE) and Roland Rathelot (CREST). I visited the London School of Economics and UC Berkeley.
 
