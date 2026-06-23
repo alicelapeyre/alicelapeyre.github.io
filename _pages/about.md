@@ -20,7 +20,7 @@ I hold a **Ph.D. in Economics** from CREST, supervised by Camille Landais (LSE) 
 
  My CV is available [here](https://github.com/alicelapeyre/alicelapeyre.github.io/raw/master/files/ALapeyre_CV.pdf).
 
-**Contact**: [alice.lapeyre@cae-eco.fr](mailto:alice.lapeyre@cae-eco.fr) 
+**Contact**: [alicepietlapeyre@gmail.com](mailto:alicepietlapeyre@gmail.com) 
 
 <!--- References: 
 - [Camille Landais](https://econ.lse.ac.uk/staff/clandais/cgi-bin/index.php) (LSE)
