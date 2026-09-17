@@ -61,12 +61,7 @@ In the media: <a href="https://voxeu.org/article/social-insurance-policies-turbu
 </ul>
 
 <ul>
- <li> Lapeyre A., E. Laveissière, and R. Salaün (2026) <a href="https://cae-eco.fr/lindice-defficacite-de-la-depense-publique-applique-aux-reformes-du-montant-de-lallocation-chomage"> “L’indice d’efficacité de la dépense publique appliqué aux réformes du montant de l’allocation chômage”</a>, <em> Focus 129 CAE </em>
-</li> 
-</ul>
-
-<ul>
- <li> Lapeyre A., E. Laveissière, R. Salaün, and M. Tô (2026) <a href="https://cae-eco.fr/les-publics-affectes-par-les-reformes-potentielles-de-lassurance-chomage"> “Les publics affectés par les réformes potentielles de l’assurance chômage”</a>, <em> Focus 130 CAE </em>
+ <li> Desrieux C., R. Ghasemipour, N. Grimprel, A. Lapeyre, E. Laveissière, and R. Salaün (2026) <a href="https://cae-eco.fr/comment-estimer-la-valeur-dun-euro-dassurance-chomage-pour-les-demandeurs-demploi"> “Comment estimer la valeur d’un euro d’assurance chômage pour les demandeurs d’emploi ?”</a>, <em> Focus 132 CAE </em>
 </li> 
 </ul>
 
@@ -76,7 +71,12 @@ In the media: <a href="https://voxeu.org/article/social-insurance-policies-turbu
 </ul>
 
 <ul>
- <li> Desrieux C., R. Ghasemipour, N. Grimprel, A. Lapeyre, E. Laveissière, and R. Salaün (2026) <a href="https://cae-eco.fr/comment-estimer-la-valeur-dun-euro-dassurance-chomage-pour-les-demandeurs-demploi"> “Comment estimer la valeur d’un euro d’assurance chômage pour les demandeurs d’emploi ?”</a>, <em> Focus 132 CAE </em>
+ <li> Lapeyre A., E. Laveissière, R. Salaün, and M. Tô (2026) <a href="https://cae-eco.fr/les-publics-affectes-par-les-reformes-potentielles-de-lassurance-chomage"> “Les publics affectés par les réformes potentielles de l’assurance chômage”</a>, <em> Focus 130 CAE </em>
+</li> 
+</ul>
+
+<ul>
+ <li> Lapeyre A., E. Laveissière, and R. Salaün (2026) <a href="https://cae-eco.fr/lindice-defficacite-de-la-depense-publique-applique-aux-reformes-du-montant-de-lallocation-chomage"> “L’indice d’efficacité de la dépense publique appliqué aux réformes du montant de l’allocation chômage”</a>, <em> Focus 129 CAE </em>
 </li> 
 </ul>
 
