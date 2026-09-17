@@ -104,7 +104,7 @@ Hours Worked: Perspectives for France and Germany”</a>, <em> Joint Statement 1
  <a href="https://www.dropbox.com/scl/fi/9xj06bzcwjl3cwqj9aamh/Code_Replication.zip?rlkey=ozpzzjye7hybj4wl1ssfp76ji&e=1&st=205xq3fu&dl=0"> Replication package </a>
  <br />
 English version: <a href="https://cae-eco.fr/static/pdf/Focus110-Plein-emploi-250716-EN.pdf"> “Aiming for "Full Employment":
-Why it Matters and How to Get There?”</a>,  
+Why it Matters and How to Get There?”</a>  
 </ul>
 
 <ul>
