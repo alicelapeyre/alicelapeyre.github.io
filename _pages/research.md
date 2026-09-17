@@ -56,12 +56,12 @@ In the media: <a href="https://voxeu.org/article/social-insurance-policies-turbu
 ## Policy Work and Other Writing 
 
 <ul>
- <li> Bunel S., A. Lapeyre, and A. Lopes (2026) <a href="https://cae-eco.fr/static/pdf/Focus_142_Bunel_260917.pdf"> “Diffusion de l’intelligence artificielle et dépendance numérique : fondements de l’intervention publique et enjeux de mesure ”</a>, <em> Focus 142 CAE </em>
+ <li> Bunel S., A. Lapeyre, and A. Lopes (2026) <a href="https://cae-eco.fr/static/pdf/Focus_142_Bunel_260917.pdf"> “Diffusion de l’intelligence artificielle et dépendance numérique : fondements de l’intervention publique et enjeux de mesure”</a>, <em> Focus 142 CAE </em>
 </li> 
 </ul>
 
 <ul>
- <li> Lapeyre A., E. Laveissière, and R. Salaün (2026) <a href="https://cae-eco.fr/lindice-defficacite-de-la-depense-publique-applique-aux-reformes-du-montant-de-lallocation-chomage"> “ L’indice d’efficacité de la dépense publique appliqué aux réformes du montant de l’allocation chômage ”</a>, <em> Focus 129 CAE </em>
+ <li> Lapeyre A., E. Laveissière, and R. Salaün (2026) <a href="https://cae-eco.fr/lindice-defficacite-de-la-depense-publique-applique-aux-reformes-du-montant-de-lallocation-chomage"> “L’indice d’efficacité de la dépense publique appliqué aux réformes du montant de l’allocation chômage”</a>, <em> Focus 129 CAE </em>
 </li> 
 </ul>
 
@@ -92,8 +92,7 @@ In the media: <a href="https://voxeu.org/article/social-insurance-policies-turbu
 
 <ul>
  <li> Bozio, A., A. Lapeyre, E. Weber, B. Runschke, M. Schnitzer, L. Simon, and M. Werding (2025) <a href="https://cae-eco.fr/static/pdf/FGCEE_Joint-statement_Labor-Market_250827.pdf"> “Fostering Employment and Total
-Hours Worked: Perspectives
-for France and Germany”</a>, <em> Joint Statement 10 CAE</em>
+Hours Worked: Perspectives for France and Germany”</a>, <em> Joint Statement 10 CAE</em>
 </li> 
 </ul>
 
