@@ -61,6 +61,11 @@ In the media: <a href="https://voxeu.org/article/social-insurance-policies-turbu
 </ul>
 
 <ul>
+ <li> Ferreira J., F. Fontaine, A. Lapeyre, E. Laveissière, R. Rathelot, A. Roulet, and R. Salaün (2026) <a href="https://cae-eco.fr/modeliser-limpact-financier-des-reformes-de-lassurance-chomage"> “Modéliser l’impact financier des réformes de l’assurance chômage”</a>, <em> Focus 133 CAE </em>
+</li> 
+</ul>
+
+<ul>
  <li> Desrieux C., R. Ghasemipour, N. Grimprel, A. Lapeyre, E. Laveissière, and R. Salaün (2026) <a href="https://cae-eco.fr/comment-estimer-la-valeur-dun-euro-dassurance-chomage-pour-les-demandeurs-demploi"> “Comment estimer la valeur d’un euro d’assurance chômage pour les demandeurs d’emploi ?”</a>, <em> Focus 132 CAE </em>
 </li> 
 </ul>
@@ -77,11 +82,6 @@ In the media: <a href="https://voxeu.org/article/social-insurance-policies-turbu
 
 <ul>
  <li> Lapeyre A., E. Laveissière, and R. Salaün (2026) <a href="https://cae-eco.fr/lindice-defficacite-de-la-depense-publique-applique-aux-reformes-du-montant-de-lallocation-chomage"> “L’indice d’efficacité de la dépense publique appliqué aux réformes du montant de l’allocation chômage”</a>, <em> Focus 129 CAE </em>
-</li> 
-</ul>
-
-<ul>
- <li> Ferreira J., F. Fontaine, A. Lapeyre, E. Laveissière, R. Rathelot, A. Roulet, and R. Salaün (2026) <a href="https://cae-eco.fr/modeliser-limpact-financier-des-reformes-de-lassurance-chomage"> “Modéliser l’impact financier des réformes de l’assurance chômage”</a>, <em> Focus 133 CAE </em>
 </li> 
 </ul>
 
